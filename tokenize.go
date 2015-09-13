@@ -1,4 +1,4 @@
-package libdtsh
+package dtsh
 
 // There are two types of tokens that dtsh needs to be aware of: regular tokens,
 // which are either words or strings delimited by double quotes, and literal

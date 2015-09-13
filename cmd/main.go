@@ -4,7 +4,7 @@ import "bufio"
 import "fmt"
 import "os"
 
-import dtsh "github.com/ferbivore/dtsh/libdtsh"
+import "github.com/ferbivore/dtsh"
 
 func main() {
 	fmt.Printf("> ")

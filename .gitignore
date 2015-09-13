@@ -23,5 +23,6 @@ _testmain.go
 *.test
 *.prof
 
-# Executable (on Linux/OSX)
-dtsh
+# Executables
+dtsh/dtsh
+dtsh/dtsh.exe
